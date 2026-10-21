@@ -1,0 +1,1 @@
+Publish only these support-site files to the public repository ahmadnizar0209/sematdata-support. Enable GitHub Pages from the main branch root. Verify the support and privacy URLs before adding them to App Store Connect. App source code and review contact details are not included.
